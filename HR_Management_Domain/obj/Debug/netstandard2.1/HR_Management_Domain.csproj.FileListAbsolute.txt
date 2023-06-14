@@ -1,0 +1,5 @@
+E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management_Domain\obj\Debug\netstandard2.1\HR_Management_Domain.csproj.AssemblyReference.cache
+E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management_Domain\obj\Debug\netstandard2.1\HR_Management_Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management_Domain\obj\Debug\netstandard2.1\HR_Management_Domain.AssemblyInfoInputs.cache
+E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management_Domain\obj\Debug\netstandard2.1\HR_Management_Domain.AssemblyInfo.cs
+E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management_Domain\obj\Debug\netstandard2.1\HR_Management_Domain.csproj.CoreCompileInputs.cache

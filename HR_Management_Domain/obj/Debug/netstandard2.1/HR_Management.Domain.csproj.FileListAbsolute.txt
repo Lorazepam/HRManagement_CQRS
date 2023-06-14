@@ -1,0 +1,10 @@
+E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management_Domain\obj\Debug\netstandard2.1\HR_Management.Domain.csproj.AssemblyReference.cache
+E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management_Domain\obj\Debug\netstandard2.1\HR_Management.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management_Domain\obj\Debug\netstandard2.1\HR_Management.Domain.AssemblyInfoInputs.cache
+E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management_Domain\obj\Debug\netstandard2.1\HR_Management.Domain.AssemblyInfo.cs
+E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management_Domain\obj\Debug\netstandard2.1\HR_Management.Domain.csproj.CoreCompileInputs.cache
+E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management_Domain\bin\Debug\netstandard2.1\HR_Management.Domain.deps.json
+E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management_Domain\bin\Debug\netstandard2.1\HR_Management.Domain.dll
+E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management_Domain\bin\Debug\netstandard2.1\HR_Management.Domain.pdb
+E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management_Domain\obj\Debug\netstandard2.1\HR_Management.Domain.dll
+E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management_Domain\obj\Debug\netstandard2.1\HR_Management.Domain.pdb
