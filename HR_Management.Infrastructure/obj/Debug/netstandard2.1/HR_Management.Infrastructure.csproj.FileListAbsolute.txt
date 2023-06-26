@@ -8,3 +8,8 @@ E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Infrastructure\o
 E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Infrastructure\obj\Debug\netstandard2.1\HR_Management.Infrastructure.csproj.CoreCompileInputs.cache
 E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Infrastructure\obj\Debug\netstandard2.1\HR_Management.Infrastructure.dll
 E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Infrastructure\obj\Debug\netstandard2.1\HR_Management.Infrastructure.pdb
+E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Infrastructure\bin\Debug\netstandard2.1\HR_Management.Application.dll
+E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Infrastructure\bin\Debug\netstandard2.1\HR_Management.Domain.dll
+E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Infrastructure\bin\Debug\netstandard2.1\HR_Management.Application.pdb
+E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Infrastructure\bin\Debug\netstandard2.1\HR_Management.Domain.pdb
+E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Infrastructure\obj\Debug\netstandard2.1\HR_Management.Infrastructure.csproj.CopyComplete
