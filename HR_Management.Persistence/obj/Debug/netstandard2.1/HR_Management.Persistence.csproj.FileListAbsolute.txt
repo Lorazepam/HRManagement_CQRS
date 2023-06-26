@@ -1,0 +1,15 @@
+E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Persistence\bin\Debug\netstandard2.1\HR_Management.Persistence.deps.json
+E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Persistence\bin\Debug\netstandard2.1\HR_Management.Persistence.dll
+E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Persistence\bin\Debug\netstandard2.1\HR_Management.Persistence.pdb
+E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Persistence\bin\Debug\netstandard2.1\HR_Management.Application.dll
+E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Persistence\bin\Debug\netstandard2.1\HR_Management.Domain.dll
+E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Persistence\bin\Debug\netstandard2.1\HR_Management.Application.pdb
+E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Persistence\bin\Debug\netstandard2.1\HR_Management.Domain.pdb
+E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Persistence\obj\Debug\netstandard2.1\HR_Management.Persistence.csproj.AssemblyReference.cache
+E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Persistence\obj\Debug\netstandard2.1\HR_Management.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Persistence\obj\Debug\netstandard2.1\HR_Management.Persistence.AssemblyInfoInputs.cache
+E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Persistence\obj\Debug\netstandard2.1\HR_Management.Persistence.AssemblyInfo.cs
+E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Persistence\obj\Debug\netstandard2.1\HR_Management.Persistence.csproj.CoreCompileInputs.cache
+E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Persistence\obj\Debug\netstandard2.1\HR_Management.Persistence.csproj.CopyComplete
+E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Persistence\obj\Debug\netstandard2.1\HR_Management.Persistence.dll
+E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Persistence\obj\Debug\netstandard2.1\HR_Management.Persistence.pdb

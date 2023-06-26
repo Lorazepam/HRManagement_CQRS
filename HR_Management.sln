@@ -19,6 +19,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HR_Management.Application",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HR_Management.Domain", "HR_Management_Domain\HR_Management.Domain.csproj", "{5ED3E784-7F90-44C6-8BBF-926EF84C2324}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HR_Management.Infrastructure", "HR_Management.Infrastructure\HR_Management.Infrastructure.csproj", "{F3EEA891-10FD-4B42-845C-6893241B44BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HR_Management.Persistence", "HR_Management.Persistence\HR_Management.Persistence.csproj", "{F40346E6-3DCB-4C80-981A-3DDC81625C1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{5ED3E784-7F90-44C6-8BBF-926EF84C2324}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5ED3E784-7F90-44C6-8BBF-926EF84C2324}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5ED3E784-7F90-44C6-8BBF-926EF84C2324}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3EEA891-10FD-4B42-845C-6893241B44BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3EEA891-10FD-4B42-845C-6893241B44BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3EEA891-10FD-4B42-845C-6893241B44BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3EEA891-10FD-4B42-845C-6893241B44BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F40346E6-3DCB-4C80-981A-3DDC81625C1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F40346E6-3DCB-4C80-981A-3DDC81625C1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F40346E6-3DCB-4C80-981A-3DDC81625C1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F40346E6-3DCB-4C80-981A-3DDC81625C1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -44,22 +56,10 @@ Global
 		{65577736-59E1-4633-B31D-9339385A3399} = {04A12FF8-6F71-49F3-8296-D2FAF1BE4CE0}
 		{1EB86BFA-9887-40AE-A9F2-E9A32E35C38C} = {8B262561-6FE8-4D70-9C13-C531DD42274B}
 		{5ED3E784-7F90-44C6-8BBF-926EF84C2324} = {8B262561-6FE8-4D70-9C13-C531DD42274B}
+		{F3EEA891-10FD-4B42-845C-6893241B44BC} = {6E69F099-629B-4DAA-B049-6C128D9D0BB8}
+		{F40346E6-3DCB-4C80-981A-3DDC81625C1E} = {6E69F099-629B-4DAA-B049-6C128D9D0BB8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {919C75C8-F7F7-40AA-862B-5B59AEA14F4D}
-	EndGlobalSection
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 3
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://dev.azure.com/amirhk33
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = HR_Management.Application\\HR_Management.Application.csproj
-		SccProjectTopLevelParentUniqueName1 = HR_Management.sln
-		SccProjectName1 = HR_Management.Application
-		SccLocalPath1 = HR_Management.Application
-		SccProjectUniqueName2 = HR_Management_Domain\\HR_Management.Domain.csproj
-		SccProjectTopLevelParentUniqueName2 = HR_Management.sln
-		SccProjectName2 = HR_Management_Domain
-		SccLocalPath2 = HR_Management_Domain
 	EndGlobalSection
 EndGlobal
