@@ -40,13 +40,9 @@ E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Api\bin\Debug\ne
 E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
 E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
 E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
 E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
 E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
 E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
@@ -82,3 +78,8 @@ E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Api\obj\Debug\ne
 E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Api\obj\Debug\net6.0\HR_Management.Api.pdb
 E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Api\obj\Debug\net6.0\HR_Management.Api.genruntimeconfig.cache
 E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Api\obj\Debug\net6.0\ref\HR_Management.Api.dll
+E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Api\bin\Debug\net6.0\Humanizer.dll
+E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll

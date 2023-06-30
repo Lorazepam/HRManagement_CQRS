@@ -13,6 +13,15 @@ builder.Services.ConfigureApplicationServices();
 builder.Services.ConfigurePersistenceServices(builder.Configuration);
 builder.Services.ConfigureInfrastructureServices(builder.Configuration);
 
+builder.Services.AddCors(o =>
+{
+    o.AddPolicy("CorsPolicy", b =>
+        b.AllowAnyHeader()
+        .AllowAnyMethod()
+        .AllowAnyOrigin()
+    );
+});
+
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
@@ -28,6 +37,8 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
+
+app.UseCors("CorsPolicy");
 
 app.MapControllers();
 
