@@ -83,3 +83,5 @@ E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Api\bin\Debug\ne
 E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
 E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
 E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Api\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
