@@ -22,6 +22,7 @@ namespace HR_Management.Application.UnitTests.Mocks
                 }
             };
 
+
             var mockRepo = new Mock<ILeaveTypeRepository>();
 
             mockRepo.Setup(r => r.GetAll()).ReturnsAsync(leaveTypes);
@@ -33,6 +34,10 @@ namespace HR_Management.Application.UnitTests.Mocks
                     return leaveType;
                 });
 
+        //var leaveType =  mockRepo.Setup(r => r.Get(leaveTypes[0].Id))
+        //        .ReturnsAsync(leaveTypes[0]);
+            
+                
             return mockRepo;
         }
     }
