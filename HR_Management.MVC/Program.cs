@@ -1,4 +1,20 @@
+using HR_Management.MVC.Contracts;
+using HR_Management.MVC.Services;
+using HR_Management.MVC.Services.Base;
+using System.Reflection;
+
 var builder = WebApplication.CreateBuilder(args);
+
+//Connect With Api
+//Api Address value is set in the appsettings
+builder.Services.AddHttpClient<IClient, Client>
+    (c=> c.BaseAddress = new Uri(builder.Configuration.GetSection("ApiAddress").Value));
+
+builder.Services.AddAutoMapper(Assembly.GetExecutingAssembly());
+
+//Local Storage is For Store And Save Api JWT For A Limitted Time
+builder.Services.AddSingleton<ILocalStorageService, LocalStorageService>();
+
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();

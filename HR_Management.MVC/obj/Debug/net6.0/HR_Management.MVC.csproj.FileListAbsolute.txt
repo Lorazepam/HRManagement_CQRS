@@ -29,3 +29,8 @@ E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.MVC\obj\Debug\ne
 E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.MVC\obj\Debug\net6.0\HR_Management.MVC.pdb
 E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.MVC\obj\Debug\net6.0\HR_Management.MVC.genruntimeconfig.cache
 E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.MVC\obj\Debug\net6.0\ref\HR_Management.MVC.dll
+E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.MVC\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.MVC\obj\Debug\net6.0\HR_Management.MVC.csproj.CopyComplete
+E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.MVC\bin\Debug\net6.0\AutoMapper.dll
+E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.MVC\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\AmirProjectAspNet\AmirProjectAsp\HR_Management\HR_Management.MVC\bin\Debug\net6.0\LocalStorage.dll
