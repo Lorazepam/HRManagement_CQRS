@@ -14,6 +14,7 @@ builder.Services.AddAutoMapper(Assembly.GetExecutingAssembly());
 
 //Local Storage is For Store And Save Api JWT For A Limitted Time
 builder.Services.AddSingleton<ILocalStorageService, LocalStorageService>();
+builder.Services.AddScoped<ILeaveTypeService, LeaveTypeService>();
 
 
 // Add services to the container.

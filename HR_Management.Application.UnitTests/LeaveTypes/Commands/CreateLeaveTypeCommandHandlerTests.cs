@@ -4,6 +4,7 @@ using HR_Management.Application.DTOs.LeaveType;
 using HR_Management.Application.Features.LeaveTypes.Handlers.Commands;
 using HR_Management.Application.Features.LeaveTypes.Requests.Commands;
 using HR_Management.Application.Profiles;
+using HR_Management.Application.Responses;
 using HR_Management.Application.UnitTests.Mocks;
 using Moq;
 using Shouldly;
@@ -42,7 +43,7 @@ namespace HR_Management.Application.UnitTests.LeaveTypes.Commands
                 LeaveTypeDto = _createLeaveTypeDto
             }, CancellationToken.None);
 
-            result.ShouldBeOfType<int>();
+            result.ShouldBeOfType<BaseCommandResponse>();
             var leaveTypes = await _mockRepository.Object.GetAll();
 
             leaveTypes.Count.ShouldBe(3);
